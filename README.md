@@ -114,4 +114,4 @@ LEFT JOIN compensation co ON ab.id=co.id
 LEFT JOIN reasons re ON ab.reason_for_absence=re.number
 ```
 # Dashboard
-![alt text](assets\crop_hr.png)
+![alt text](assets/crop_hr.png)
