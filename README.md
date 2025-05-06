@@ -113,5 +113,5 @@ FROM absenteeism_at_work ab
 LEFT JOIN compensation co ON ab.id=co.id
 LEFT JOIN reasons re ON ab.reason_for_absence=re.number
 ```
-# Dashboard [Excel] 
-![Dasbhbard](assets\crop_hr.png)
+# Dashboard
+![](assets\crop_hr.png)
